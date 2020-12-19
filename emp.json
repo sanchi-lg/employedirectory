@@ -1,0 +1,49 @@
+{
+    "employees": [
+        {
+            "id": 0,
+            "ename": "Rahul",
+            "eemail": "rahul@gmail.com",
+            "eposition": "Manager",
+            "esalary": "70000",
+            "eage": "30",
+            "edateofjoining": "19-11-2020"
+        },
+        {
+            "id": 0,
+            "ename": "Priya",
+            "eemail": "priya@gmail.com",
+            "eposition": "President",
+            "esalary": "170000",
+            "eage": "40",
+            "edateofjoining": "19-11-2020"
+        },
+        {
+            "id": 0,
+            "ename": "Rohan",
+            "eemail": "rohan@gmail.com",
+            "eposition": "Vice-president",
+            "esalary": "90000",
+            "eage": "30",
+            "edateofjoining": "19-11-2020"
+        },
+        {
+            "id": 0,
+            "ename": "Manpreet",
+            "eemail": "manpreet@gmail.com",
+            "eposition": "CEO",
+            "esalary": "270000",
+            "eage": "50",
+            "edateofjoining": "19-11-2020"
+        },
+        {
+            "id": 0,
+            "ename": "Raman",
+            "eemail": "raman@gmail.com",
+            "eposition": "Manager",
+            "esalary": "70000",
+            "eage": "30",
+            "edateofjoining": "19-11-2020"
+        }
+    ]
+}
