@@ -2,6 +2,7 @@
 
 
 ## Technologies used
+* HTML
 * CSS
 * JS
 * Express Js
@@ -29,6 +30,8 @@
   
   <img src="images/soft3.JPG" height="70%" width="70%" >
   <br/>
+  
+  .
   
   <img src="images/soft4.JPG" height="70%" width="70%" >
   <br/>
